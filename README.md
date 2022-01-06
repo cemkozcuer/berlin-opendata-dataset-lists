@@ -20,10 +20,10 @@ For information regarding the datasets, their metadata and legal use please refe
 
 ## Current dataset lists
 
-1. [Berlin Open Data - "Kategorie: Sozialleistungen" (517 datasets)](https://github.com/cemkozcuer/berlin-opendata-dataset-lists/blob/main/dataset_lists/2021-12-03_berlin-opendata_sozialleistungen_list.csv)
-2. [Berlin Open Data - "Kategorie: Gesundheit" (508 datasets)](https://github.com/cemkozcuer/berlin-opendata-dataset-lists/blob/main/dataset_lists/2021-12-03_berlin-opendata_gesundheit_list.csv)
-3. [GIS - "Kategorie: Gesundheitsdaten" (6200 datasets)](https://github.com/cemkozcuer/berlin-opendata-dataset-lists/blob/main/dataset_lists/2022-01-04_gis_gesundheitsdaten_list.csv)
-4. [GIS - "Kategorie: Sozialdaten" (11792 datasets)](https://github.com/cemkozcuer/berlin-opendata-dataset-lists/blob/main/dataset_lists/2022-01-04_gis_sozialdaten_list.csv)
+1. [Berlin Open Data - "Kategorie: Sozialleistungen" (517 datasets)](https://github.com/cemkozcuer/berlin-opendata-dataset-lists/blob/main/dataset_lists/2021-12-03_berlin-opendata_sozialleistungen_list.csv) <- [fetched here](https://daten.berlin.de/kategorie/sozialleistungen)
+2. [Berlin Open Data - "Kategorie: Gesundheit" (508 datasets)](https://github.com/cemkozcuer/berlin-opendata-dataset-lists/blob/main/dataset_lists/2021-12-03_berlin-opendata_gesundheit_list.csv) <- [fetched here](https://daten.berlin.de/kategorie/gesundheit)
+3. [GIS - "Kategorie: Gesundheitsdaten" (6200 datasets)](https://github.com/cemkozcuer/berlin-opendata-dataset-lists/blob/main/dataset_lists/2022-01-04_gis_gesundheitsdaten_list.csv) <- [fetched here](http://www.gsi-berlin.info/gsi_suchen.asp?seite=2&CBFest=Kategorie&kategorie=Gesundheitsdaten)
+4. [GIS - "Kategorie: Sozialdaten" (11792 datasets)](https://github.com/cemkozcuer/berlin-opendata-dataset-lists/blob/main/dataset_lists/2022-01-04_gis_sozialdaten_list.csv) <- [fetched here](http://www.gsi-berlin.info/gsi_suchen.asp?seite=2&CBFest=Kategorie&kategorie=Sozialdaten)
 
 Please note that the dataset lists were created and maintained to the best of our knowledge, 
 however do not claim to be complete or error free.
