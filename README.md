@@ -13,8 +13,8 @@ of the datasets.
 The purpose of this repository is to provide an alternative overview and access to the actual
 datasets in contrast to the aforementioned data portals.
 
-Please note that the actual website of [Berlin open data](https://daten.berlin.de/) 
-and the [GSI](http://www.gsi-berlin.info/) might change regarding the maintained data and their urls.
+Please note that the websites of [Berlin open data](https://daten.berlin.de/) and the [GSI](http://www.gsi-berlin.info/)
+may change with regard to the maintained datasets and their URLs.
 
 For information regarding the datasets, their metadata and legal use please refer to the aformentioned websites.
 
@@ -33,6 +33,6 @@ however do not claim to be complete or error free.
 Geojson data for the often referred LOR districts (Lebensweltlich orientierte Räume) can be found for
 example here: https://github.com/rbb-data/berlin-lor .
 
-More dataset lists and further tools and scripts might be provided here in the future in order to assist accessibility regarding berlin open data.
+More dataset lists and further tools and scripts may be provided here in the future in order to assist accessibility regarding berlin open data.
 
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0  <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>  
